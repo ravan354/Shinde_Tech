@@ -3,7 +3,7 @@ const MANIFEST = 'flutter-app-manifest';
 const TEMP = 'flutter-temp-cache';
 const CACHE_NAME = 'flutter-app-cache';
 const RESOURCES = {
-  "assets/AssetManifest.json": "e4c3435178d7c8278355baefaf1e7d37",
+  "assets/AssetManifest.json": "1e01bf08c3b3c18718d07fba79ea7ddf",
 "assets/assets/icon/icon.png": "b9f0c9ee0479bb1c6a1224487e91c71e",
 "assets/assets/images/logo.png": "b1615165a78b4484c4332f43d7ff71cb",
 "assets/assets/images/samsung_galaxy_a/samsung_galaxy_a52.png": "11c284df4605f222181ccedf77aa1b15",
@@ -15,6 +15,7 @@ const RESOURCES = {
 "assets/assets/images/samsung_galaxy_z/samsung-galaxy-z-flip-3.png": "ed84f0b6d5db9a8b0c94c040c9525f3f",
 "assets/assets/images/samsung_galaxy_z/samsung-galaxy-z-fold-2-1.png": "66712f234c11f28febc55c58411df653",
 "assets/assets/images/samsung_galaxy_z/samsung-galaxy-z-fold-2.png": "446e0c597e63c1de94e925fa21cafbca",
+"assets/assets/images/samsung_logo.png": "bfc3dd2a5790893ded0d0991100a1869",
 "assets/FontManifest.json": "3bac2883729d088595692597fac1cbac",
 "assets/fonts/MaterialIcons-Regular.otf": "95db9098c58fd6db106f1116bae85a0b",
 "assets/fonts%255Cchanticleerroman%255CChanticleerRomanNF-Bold.ttf": "ff407913e45fbc80879b5be84b7d7ac5",
@@ -33,10 +34,10 @@ const RESOURCES = {
 "icons/Icon-512.png": "96e752610906ba2a93c65f8abe1645f1",
 "icons/Icon-maskable-192.png": "c457ef57daa1d16f64b27b786ec2ea3c",
 "icons/Icon-maskable-512.png": "301a7604d45b3e739efc881eb04896ea",
-"index.html": "4df51383de6d6c8d9fa90a4dec661210",
-"/": "4df51383de6d6c8d9fa90a4dec661210",
-"main.dart.js": "c62a5c0ceb6f5b5f56bc9af6d4960d4b",
-"manifest.json": "4b968f90985b807b9562cccff9dbf697",
+"index.html": "af931dc234579dc651cbf8b7c7d4b5a7",
+"/": "af931dc234579dc651cbf8b7c7d4b5a7",
+"main.dart.js": "81064c933676d76eb0d37314d96bf8f6",
+"manifest.json": "4a1718f63f2cd22efce7209858b93f3e",
 "version.json": "f566d0092354d9dbb7e808b3587b2ff0"
 };
 
