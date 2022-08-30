@@ -3,12 +3,15 @@ const MANIFEST = 'flutter-app-manifest';
 const TEMP = 'flutter-temp-cache';
 const CACHE_NAME = 'flutter-app-cache';
 const RESOURCES = {
-  "assets/AssetManifest.json": "1e01bf08c3b3c18718d07fba79ea7ddf",
+  "assets/AssetManifest.json": "5e10e24258fb0fd3a12a84c64079844d",
 "assets/assets/icon/icon.png": "b9f0c9ee0479bb1c6a1224487e91c71e",
 "assets/assets/images/logo.png": "b1615165a78b4484c4332f43d7ff71cb",
 "assets/assets/images/samsung_galaxy_a/samsung_galaxy_a52.png": "11c284df4605f222181ccedf77aa1b15",
 "assets/assets/images/samsung_galaxy_a/samsung_galaxy_a_1.png": "2bc93b166f68b95618719c93c3061a45",
 "assets/assets/images/samsung_galaxy_a/samsung_galaxy_a_2.png": "c2b8e0f9d485e24726ee3f2c9a810539",
+"assets/assets/images/samsung_galaxy_m/samsung_galaxy_m.png": "5479c763708bf39df12ed9a5ae589cc9",
+"assets/assets/images/samsung_galaxy_m/samsung_galaxy_m1.png": "c39efbe31b77d58b97360bbc0ebf47f4",
+"assets/assets/images/samsung_galaxy_m/samsung_galaxy_m2.png": "dc17f7aba3968623ea4138ec1541ea87",
 "assets/assets/images/samsung_galaxy_s/samsung-galaxy-s-tab.png": "649e4a8263cfa522cb91febc9dcec253",
 "assets/assets/images/samsung_galaxy_s/samsung-galaxy-s.png": "ae05ffecf107e0e3fbd2ed989e111fa6",
 "assets/assets/images/samsung_galaxy_s/samsung_tab.png": "9d793ae89e97d6dc92b817b3d54c8107",
@@ -34,9 +37,9 @@ const RESOURCES = {
 "icons/Icon-512.png": "96e752610906ba2a93c65f8abe1645f1",
 "icons/Icon-maskable-192.png": "c457ef57daa1d16f64b27b786ec2ea3c",
 "icons/Icon-maskable-512.png": "301a7604d45b3e739efc881eb04896ea",
-"index.html": "d68850501a268ef7137c3da1a651bcc1",
-"/": "d68850501a268ef7137c3da1a651bcc1",
-"main.dart.js": "f9b57bac14222d6a30cd43a57029903d",
+"index.html": "a15fab6e1cf3de066da171bd81e60122",
+"/": "a15fab6e1cf3de066da171bd81e60122",
+"main.dart.js": "f556f69dd4c95aa0b9cf9918b961a8ed",
 "manifest.json": "4a1718f63f2cd22efce7209858b93f3e",
 "version.json": "f566d0092354d9dbb7e808b3587b2ff0"
 };
